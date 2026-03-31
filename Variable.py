@@ -1,6 +1,6 @@
 # Variable = A container for a value (string, integer, float, boolean). Used to store data in a program. 
 
-# Strings
+# F Strings
 topping = "pepperoni"
 soda = "Mountain Dew"
 dog = "Crash and Cinnamon"
